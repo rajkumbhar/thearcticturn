@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/thearcticturn/static/css/main.86a6a49a.css",
+    "main.js": "/thearcticturn/static/js/main.eb23f7d8.js",
+    "static/js/787.28cb0dcd.chunk.js": "/thearcticturn/static/js/787.28cb0dcd.chunk.js",
+    "static/media/student2.jpg": "/thearcticturn/static/media/student2.ed72599db3b9c9bb50b7.jpg",
+    "static/media/student1.jpg": "/thearcticturn/static/media/student1.21968001fafdc0d6cb9c.jpg",
+    "static/media/University.jpg": "/thearcticturn/static/media/University.f344d0edb21ab0a16b0f.jpg",
+    "index.html": "/thearcticturn/index.html",
+    "main.86a6a49a.css.map": "/thearcticturn/static/css/main.86a6a49a.css.map",
+    "main.eb23f7d8.js.map": "/thearcticturn/static/js/main.eb23f7d8.js.map",
+    "787.28cb0dcd.chunk.js.map": "/thearcticturn/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a6a49a.css",
+    "static/js/main.eb23f7d8.js"
+  ]
+}
